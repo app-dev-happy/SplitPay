@@ -1,7 +1,7 @@
-# Elemental Design System 🎨
+# Nexus Design System 🎨
 
 ## Introduction
-The Elemental Design System is a comprehensive UI/UX framework designed to create consistent, scalable, and beautiful applications. Following the atomic design methodology, it breaks down interfaces into fundamental building blocks that combine to create sophisticated user experiences. 🏗️
+The Nexus Design System is a comprehensive UI/UX framework designed to create consistent, scalable, and beautiful applications. Following the atomic design methodology, it breaks down interfaces into fundamental building blocks that combine to create sophisticated user experiences. 🏗️
 
 ### Key Principles
 - **Consistency** 🔄: Unified look and feel across all components
@@ -59,14 +59,3 @@ The design system supports both light and dark themes with carefully selected co
 |------|-------------|----------|
 | Light | Day usage, High contrast needs | Better readability in bright environments |
 | Dark | Night usage, Low light conditions | Reduced eye strain, Modern aesthetic |
-
-## Implementation Guidelines 🛠️
-1. Use semantic naming conventions
-2. Follow accessibility standards (WCAG 2.1)
-3. Maintain responsive behavior
-4. Implement proper component documentation
-
-## Version Control 📝
-- All components are versioned
-- Breaking changes follow semver
-- Migration guides provided for major updates
